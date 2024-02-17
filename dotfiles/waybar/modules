@@ -3,7 +3,7 @@
   "clock": {
     "format": "<span color=\"#7aa2f7\"> </span>{:%H:%M:%S}",
     "tooltip-format": "<tt>{calendar}</tt>",
-    "interval": 360,
+    "interval": 1,
     "calendar": {
       "mode": "month",
       "mode-mon-col": 4,
